@@ -1,0 +1,13 @@
+{
+  "name": "s.imas.sg",
+  "version": "1.0.0",
+  "description": "IMAS URL Shortener",
+  "main": "index.js",
+  "repository": "https://github.com/zainfathoni/s.imas.sg",
+  "author": "Zain Fathoni <me@zainf.dev> (https://zainf.dev)",
+  "license": "MIT",
+  "private": false,
+  "devDependencies": {
+    "netlify-shortener": "^2.3.0"
+  }
+}
