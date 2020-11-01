@@ -5,6 +5,7 @@
   "main": "index.js",
   "repository": "https://github.com/zainfathoni/s.imas.sg",
   "author": "Zain Fathoni <me@zainf.dev> (https://zainf.dev)",
+  "baseUrl": "https://s.imas.sg",
   "license": "MIT",
   "private": false,
   "devDependencies": {
