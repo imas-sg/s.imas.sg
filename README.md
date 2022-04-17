@@ -37,7 +37,7 @@ Silakan terlebih dahulu menghubungi owner (saat ini adalah Mas Zain) untuk memin
 Coba untuk melakukan login Zoom dengan menggunakan akun Zoom IMAS.
 
 2. **Jadwalkan Zoom Meeting**  
-Lakukan penjadwalan Zoom meeting baru dengan detail berikut:
+Lakukan penjadwalan Zoom meeting baru dengan detail berikut. Setelah dijadwal, popup untuk Google Calendar juga bisa langsung ditutup:
 ```
 Topic      : Saung Istiqamah Online IMAS #XX bersama XX (Silakan ganti XX dengan yang bersesuaian)
 Timing     : (Sesuaikan dengan waktu tepatnya Saung IMAS dilaksanakan, biasanya berdurasi 2 jam)
@@ -62,7 +62,7 @@ Tanyakan kepada owner mengenai link tanya-jawab [sli.do](https://app.sli.do/) ya
 Edit berkas [`_redirects`](./_redirects) dengan menambahkan tiga baris berikut dan mengganti XX dengan yang bersesuaian:
 ```
 /tanya-XX                <diisi dengan link tanya-jawab Slido>
-/saung-online-XX         s.imas.sg
+/saung-online-XX         https://www.youtube.com/c/imasdotsg
 /saung-online-XX-zoom    <diisi dengan link zoom meeting>
 ```
 
@@ -82,8 +82,8 @@ Persiapkan hal-hal berikut sebelum Pra-Live:
     - Di windows browser lain (selain yang digunakan untuk Slide/poster), bersiap untuk memperbarui pemendek pranala IMAS (atau klik saja link [berikut](https://github.com/zainfathoni/s.imas.sg/edit/main/_redirects).)
     - Di windows tersebut pula, siapkan lagu nasyid apa pun untuk dimainkan saat Pra-Live (misalnya playlist Raihan atau Snada).
 
-3. **Sekitar 10 Menit Sebelum Saung IMAS: Pra-Live**  
-Lakukan hal-hal berikut sekitar 10 menit sebelum Saung IMAS dilaksanakan:
+3. **Sekitar 5-10 Menit Sebelum Saung IMAS: Pra-Live**  
+Lakukan hal-hal berikut sekitar 5-10 menit sebelum Saung IMAS dilaksanakan:
 
     - Beri aba-aba bahwa Youtube sudah akan mulai Livestream. Sembari menunggu, Slide/poster akan disajikan beserta lantunan lagu nasyid.
     - Share screen Slide/poster, lalu centang ON untuk Share Audio (di pojok kiri bawah.)
@@ -92,14 +92,14 @@ Lakukan hal-hal berikut sekitar 10 menit sebelum Saung IMAS dilaksanakan:
     - Silakan gunakan akun Gmail IMAS, lalu visibility video di-set sebagai "Public".
     - Perbarui pemendek pranala IMAS dengan link Youtube.
 ```
-/saung-online-XX         <ganti s.imas.sg dengan link Youtube>
+/saung-online-XX         <ganti https://www.youtube.com/c/imasdotsg dengan link livestream Youtube>
 ```
     
 4. **Live Saung IMAS**  
-Saat Saung IMAS dimulai, Stop Share Screen, kemudian alihkan ke Slide atau pengisi acara dengan centang OFF untuk Share Audio.
+Saat Saung IMAS dimulai, Stop Share Screen, kemudian alihkan ke Slide atau pengisi acara dengan Share Screen ulang namun centang OFF untuk Share Audio.
 
 5. **Saat Saung IMAS berlangsung hingga Sesi Tanya-Jawab**  
-Atur laju Slide, lalu juga tidak lupa memberikan link Tanya-Jawab Slido ke kolom chat Zoom maupun Youtube Live. Saat sesi Tanya-Jawab, pantau Zoom dan juga Slido untuk pertanyaan-pertanyaan.
+Atur laju Slide, lalu juga tidak lupa memberikan link Tanya-Jawab Slido ke kolom chat Zoom maupun Youtube Live apabila ingin bertanya secara anonim. Saat sesi Tanya-Jawab, pantau Zoom, Chat Youtube Live, dan juga Slido untuk pertanyaan-pertanyaan.
 
 6. **Selesai Saung IMAS**  
 Setelah ditutup, jangan lupa untuk mematikan Youtube Live: More > End/Stop Live on Youtube.
