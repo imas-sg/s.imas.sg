@@ -91,7 +91,10 @@ Lakukan hal-hal berikut sekitar 5-10 menit sebelum Saung IMAS dilaksanakan:
     - More > Live on Youtube.
     - Silakan gunakan akun Gmail IMAS, lalu visibility video di-set sebagai "Public".
     - Perbarui pemendek pranala IMAS dengan link Youtube.
-    - Pastikan view dalam mode "Spotlight" pada opsi drop down di kanan atas layar (bukan Gallery atau Speaker), kemudian pin video pembicara.
+    - Pastikan pemateri dan moderator berada dalam mode "Spotlight" dengan cara klik 'Add Spotlight' pada pemateri dan moderator, seperti berikut:
+      ![image](https://github.com/zainfathoni/s.imas.sg/assets/48133854/e5ed10a2-f350-4429-8ee0-54c45bf1529d)
+      Note: Jangan gunakan 'Pin' karena fitur tersebut hanya berlaku pada layar anda, bukan semua orang.
+    -  pada opsi drop down di kanan atas layar (bukan Gallery atau Speaker), kemudian pin video pembicara.
 ```
 /saung-online-XX         <ganti https://www.youtube.com/c/imasdotsg dengan link livestream Youtube>
 ```
