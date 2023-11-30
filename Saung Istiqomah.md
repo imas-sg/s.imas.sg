@@ -18,10 +18,11 @@ Masehi dengan beberapa pertimbangan tambahan seperti:
 
 Berikut pembagian peran dan tugas penyelenggara Saung Istiqomah Online IMAS:
 
-| Peran                 | Tugas                                                                                                      |
-| --------------------- | ---------------------------------------------------------------------------------------------------------- |
-| Penanggung Jawab (PJ) | Memastikan segala aspek persiapan dan penyelenggaraan Saung Istiqomah di bulan tersebut.                   |
-| Narasumber            | Ustadz/ustadzah yang mengisi materi utama Saung Istiqomah.                                                 |
-| Pembawa Acara (MC)    | Membawakan acara dari awal hingga akhir sekaligus memoderasi sesi tanya jawab dengan narasumber.           |
-| Qori'                 | Petugas pembacaan ayat suci Al-Qur'an sebagai pembuka acara, bisa lebih dari satu orang.                   |
-| Teknisi               | Petugas teknis Zoom dan YouTube untuk memastikan kelancara proses _video conference_ dan _live streaming_. |
+| Peran                 | Tugas                                                                                                                                                      |
+| --------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Penanggung Jawab (PJ) | Memastikan segala aspek persiapan dan penyelenggaraan Saung Istiqomah di bulan tersebut.                                                                   |
+| Narasumber            | Mengisi materi utama Saung Istiqomah dan memimpin do'a penutup.                                                                                            |
+| Pembawa Acara (MC)    | Membawakan acara dari awal hingga akhir sekaligus memoderasi sesi tanya jawab dengan narasumber.                                                           |
+| Qori'                 | Membacakan ayat suci Al-Qur'an sebagai pembuka acara, bisa lebih dari satu orang (Arab & terjemahan).                                                      |
+| Teknisi               | Memastikan kelancaran proses _video conference_ di **Zoom** dan _live streaming_ di **YouTube**. Panduan selengkapnya bisa dibaca di [README](./README.md) |
+| Publikasi             | Menyiapkan materi visual, yakni gambar poster publikasi, _thumbnail_ YouTube, dan _background_ Zoom.                                                       |
