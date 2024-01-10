@@ -12,7 +12,8 @@ Masehi dengan beberapa pertimbangan tambahan seperti:
 
 - [Kalender libur nasional dari MOM](https://www.mom.gov.sg/employment-practices/public-holidays)
 - [Kalender libur sekolah dari MOE](https://www.moe.gov.sg/calendar)
-- [Kalender hijriyah MUIS](https://www.muis.gov.sg/Media/Islamic-Calendar)
+- [Kalender Hijriyah MUIS](https://www.muis.gov.sg/Media/Islamic-Calendar)
+- [Kalendar Hijriyah MUIS (versi cetak)](https://go.gov.sg/muiscalendar2024)
 
 ## Penyelenggara
 
