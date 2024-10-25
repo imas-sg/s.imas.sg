@@ -85,7 +85,8 @@ Persiapkan hal-hal berikut sebelum Pra-Live:
 3. **Sekitar 5-10 Menit Sebelum Saung IMAS: Pra-Live**  
 Lakukan hal-hal berikut sekitar 5-10 menit sebelum Saung IMAS dilaksanakan:
 
-    - Beri aba-aba bahwa Youtube sudah akan mulai Livestream. Sembari menunggu, Slide/poster akan disajikan beserta lantunan lagu nasyid.
+    - Beri aba-aba bahwa Youtube sudah akan mulai Livestream (jangan lupa **update** link youtube live). Sembari menunggu, Slide/poster akan disajikan beserta lantunan lagu nasyid.
+    - Aktifkan (buka) Slido Q&A 
     - Share screen Slide/poster, lalu centang ON untuk Share Audio (di pojok kiri bawah.)
     - Nyalakan lagu nasyid pilihan.
     - More > Live on Youtube.
