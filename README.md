@@ -62,7 +62,7 @@ Tanyakan kepada owner mengenai link tanya-jawab [sli.do](https://app.sli.do/) ya
 Edit berkas [`_redirects`](./_redirects) dengan menambahkan tiga baris berikut dan mengganti XX dengan yang bersesuaian:
 ```
 /tanya-XX                <diisi dengan link tanya-jawab Slido>
-/saung-online-XX         https://www.youtube.com/c/imasdotsg
+/saung-online-XX         <ganti dengan link livestream Youtube>
 /saung-online-XX-zoom    <diisi dengan link zoom meeting>
 ```
 
@@ -94,14 +94,13 @@ Lakukan hal-hal berikut sekitar 5-10 menit sebelum Saung IMAS dilaksanakan:
     - Perbarui pemendek pranala IMAS dengan link Youtube.
     - Pastikan pemateri dan moderator berada dalam mode "Spotlight" dengan cara klik 'Add Spotlight' pada pemateri dan moderator, seperti berikut:
       ![image](https://github.com/zainfathoni/s.imas.sg/assets/48133854/e5ed10a2-f350-4429-8ee0-54c45bf1529d)
+
       Note: Jangan gunakan 'Pin' karena fitur tersebut hanya berlaku pada layar anda, bukan semua orang.
     -  pada opsi drop down di kanan atas layar (bukan Gallery atau Speaker), kemudian pin video pembicara.
-```
-/saung-online-XX         <ganti https://www.youtube.com/c/imasdotsg dengan link livestream Youtube>
-```
     
 4. **Live Saung IMAS**  
-Saat Saung IMAS dimulai, Stop Share Screen, kemudian alihkan ke Slide atau pengisi acara dengan Share Screen ulang namun centang OFF untuk Share Audio.
+    - Saat Saung IMAS dimulai, Stop Share Screen, kemudian alihkan ke Slide atau pengisi acara dengan Share Screen ulang namun centang OFF untuk Share Audio.
+    - Untuk Youtube Live, pilih **Live on Custom Live Streaming Service**.  Zoom akan membuka link youtube yang sudah didefinisikan di file [`_redirects`](./_redirects) sehingga tidak perlu dilakukan update file manual.
 
 5. **Saat Saung IMAS berlangsung hingga Sesi Tanya-Jawab**  
 Atur laju Slide, lalu juga tidak lupa memberikan link Tanya-Jawab Slido ke kolom chat Zoom maupun Youtube Live apabila ingin bertanya secara anonim. Saat sesi Tanya-Jawab, pantau Zoom, Chat Youtube Live, dan juga Slido untuk pertanyaan-pertanyaan. Pemberian link bisa dengan format berikut:
