@@ -102,6 +102,8 @@ Lakukan hal-hal berikut sekitar 5-10 menit sebelum Saung IMAS dilaksanakan:
     - Saat Saung IMAS dimulai, Stop Share Screen, kemudian alihkan ke Slide atau pengisi acara dengan Share Screen ulang namun centang OFF untuk Share Audio.
     - Untuk Youtube Live, pilih **Live on Custom Live Streaming Service**.  Zoom akan membuka link youtube yang sudah didefinisikan di file [`_redirects`](./_redirects) sehingga tidak perlu dilakukan update file manual.
 
+      ![image](https://github.com/imas-sg/s.imas.sg/blob/main/YoutubeLive.png)
+
 5. **Saat Saung IMAS berlangsung hingga Sesi Tanya-Jawab**  
 Atur laju Slide, lalu juga tidak lupa memberikan link Tanya-Jawab Slido ke kolom chat Zoom maupun Youtube Live apabila ingin bertanya secara anonim. Saat sesi Tanya-Jawab, pantau Zoom, Chat Youtube Live, dan juga Slido untuk pertanyaan-pertanyaan. Pemberian link bisa dengan format berikut:
 
