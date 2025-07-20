@@ -26,10 +26,10 @@ Ikuti petunjuk di [netlify-shortener](https://github.com/kentcdodds/netlify-shor
 
 Tugas administrator Saung IMAS dibagi menjadi setidaknya dua tahapan: Persiapan Sebelum Hari H, dan Saat Hari H. Terdapat pula tahapan Gladi Resik yang sebaiknya dilakukan di antara keduanya. 
 
-Silakan terlebih dahulu menghubungi owner (saat ini adalah Mas Zain) untuk meminta akses kredensial sebagai berikut:
+Silakan terlebih dahulu menghubungi owner untuk meminta akses kredensial sebagai berikut:
 - Akses edit pemendek pranala IMAS pada Github
 - Akses login akun Zoom IMAS
-- Akses login akun Gmail IMAS untuk Youtube Live (Zoom belum mendukung fitur Shared Channel)
+- Akses login akun Gmail IMAS untuk Youtube Live (Zoom belum mendukung fitur Shared Channel) dan Slido
 
 ### Persiapan Sebelum Hari H
 
@@ -65,6 +65,7 @@ Edit berkas [`_redirects`](./_redirects) dengan menambahkan tiga baris berikut d
 /saung-online-XX         <ganti dengan link livestream Youtube>
 /saung-online-XX-zoom    <diisi dengan link zoom meeting>
 ```
+**Penting:** Gunakan akun IMAS untuk membuat Youtube Live Streaming dan Slido Q&A.
 
 5. **Login Youtube IMAS**  
 Coba untuk melakukan login Youtube dengan menggunakan akun Youtube IMAS. Apabila diminta one-time authentication, silakan hubungi owner untuk melakukan autentikasi.
@@ -85,24 +86,22 @@ Persiapkan hal-hal berikut sebelum Pra-Live:
 3. **Sekitar 5-10 Menit Sebelum Saung IMAS: Pra-Live**  
 Lakukan hal-hal berikut sekitar 5-10 menit sebelum Saung IMAS dilaksanakan:
 
-    - Beri aba-aba bahwa Youtube sudah akan mulai Livestream (jangan lupa **update** link youtube live). Sembari menunggu, Slide/poster akan disajikan beserta lantunan lagu nasyid.
-    - Aktifkan (buka) Slido Q&A 
-    - Share screen Slide/poster, lalu centang ON untuk Share Audio (di pojok kiri bawah.)
+    - Beri aba-aba bahwa Youtube sudah akan mulai Livestream (jangan lupa **update** link youtube live, jika streaming belum dibuat). Sembari menunggu, Slide/poster akan disajikan beserta lantunan lagu nasyid.
+    - Aktifkan (buka) Slido Q&A.
+    - Share screen Slide/poster, lalu centang ON untuk Share Audio (di pojok kiri bawah.).
     - Nyalakan lagu nasyid pilihan.
-    - More > Live on Youtube.
-    - Silakan gunakan akun Gmail IMAS, lalu visibility video di-set sebagai "Public".
-    - Perbarui pemendek pranala IMAS dengan link Youtube.
+    - Aktifkan Youtube Live Streaming (More > Live on Custom Live Streaming Service). Zoom akan membuka link youtube yang sudah didefinisikan di file [`_redirects`](./_redirects) sehingga tidak perlu dilakukan update file manual.
+
+      ![image](https://github.com/imas-sg/s.imas.sg/blob/main/YoutubeLive.png)
+    - Opsional: Silakan gunakan akun Gmail IMAS, lalu visibility video di-set sebagai "Public".
     - Pastikan pemateri dan moderator berada dalam mode "Spotlight" dengan cara klik 'Add Spotlight' pada pemateri dan moderator, seperti berikut:
       ![image](https://github.com/zainfathoni/s.imas.sg/assets/48133854/e5ed10a2-f350-4429-8ee0-54c45bf1529d)
 
       Note: Jangan gunakan 'Pin' karena fitur tersebut hanya berlaku pada layar anda, bukan semua orang.
-    -  pada opsi drop down di kanan atas layar (bukan Gallery atau Speaker), kemudian pin video pembicara.
+    - Pada opsi drop down di kanan atas layar (bukan Gallery atau Speaker), kemudian pin video pembicara.
     
 4. **Live Saung IMAS**  
     - Saat Saung IMAS dimulai, Stop Share Screen, kemudian alihkan ke Slide atau pengisi acara dengan Share Screen ulang namun centang OFF untuk Share Audio.
-    - Untuk Youtube Live, pilih **Live on Custom Live Streaming Service**.  Zoom akan membuka link youtube yang sudah didefinisikan di file [`_redirects`](./_redirects) sehingga tidak perlu dilakukan update file manual.
-
-      ![image](https://github.com/imas-sg/s.imas.sg/blob/main/YoutubeLive.png)
 
 5. **Saat Saung IMAS berlangsung hingga Sesi Tanya-Jawab**  
 Atur laju Slide, lalu juga tidak lupa memberikan link Tanya-Jawab Slido ke kolom chat Zoom maupun Youtube Live apabila ingin bertanya secara anonim. Saat sesi Tanya-Jawab, pantau Zoom, Chat Youtube Live, dan juga Slido untuk pertanyaan-pertanyaan. Pemberian link bisa dengan format berikut:
