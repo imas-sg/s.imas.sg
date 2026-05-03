@@ -81,6 +81,10 @@ Click the three vertical dots on the default thumbnail and select Change.
    Save: Click the Save button in the top right
    
 7. **Mencoba ketiga link yang telah dibuat di step 4 (pranala IMAS)**
+Ganti XX dengan nomor yang baru ditambahkan, lalu coba ketiga link di bawah ini:
+   https://s.imas.sg/tanya-XX
+   https://s.imas.sg/saung-online-XX
+   https://s.imas.sg/saung-online-XX-zoom
 
 ### Saat Hari H
 
