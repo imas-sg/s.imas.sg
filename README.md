@@ -70,6 +70,18 @@ Edit berkas [`_redirects`](./_redirects) dengan menambahkan tiga baris berikut d
 5. **Login Youtube IMAS**  
 Coba untuk melakukan login Youtube dengan menggunakan akun Youtube IMAS. Apabila diminta one-time authentication, silakan hubungi owner untuk melakukan autentikasi.
 
+6. **Mengubah video thumbnail di Youtube link**
+Go to YouTube Studio: Open studio.youtube.com and sign in.
+Find the Scheduled Video: 
+   Click on Content in the left menu, then click the Live tab to find your scheduled Zoom meeting.
+   Edit the Thumbnail:Hover over the video, and click the pencil icon (Edit).
+   Scroll down to the Thumbnail section.
+Click the three vertical dots on the default thumbnail and select Change.
+   Upload your custom image (suggested: 1280 x 720 pixels).
+   Save: Click the Save button in the top right
+   
+7. **Mencoba ketiga link yang telah dibuat di step 4 (pranala IMAS)**
+
 ### Saat Hari H
 
 1. **Login dan Masuk Zoom Meeting Saung IMAS**  
